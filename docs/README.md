@@ -67,5 +67,6 @@ This documentation is organized into several sections:
 
 **Version**: 1.0.0  
 **Authors**: Rugzy
+
 **Minecraft Version**: 1.21+  
 **License**: See project repository
